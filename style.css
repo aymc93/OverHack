@@ -145,7 +145,7 @@ body::after {
 
 /* ── PAGES ──────────────────────────────────── */
 .pages-wrapper {
-  width: 100%; max-width: 1720px;
+  width: 100%; max-width: 1420px;
   position: relative;
   display: flex; align-items: center;
 }
