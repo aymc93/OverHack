@@ -9,8 +9,8 @@
    Pour désactiver le bouton ce soir-là : download: ""
 */
 const JEU_DU_SOIR = {
-  title:    "Mario Kart Wii",   // ← Nom du jeu ce soir
-  download: "#",                // ← Lien de téléchargement
+  title:    "Pummel Party",   // ← Nom du jeu ce soir
+  download: "https://mega.nz/folder/YydAmLjC#BB46xByI6KnLzaXqFXYfiQ",                // ← Lien de téléchargement
 };
 /* ════════════════════════════════════════════════════════ */
 
