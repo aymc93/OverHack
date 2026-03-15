@@ -9,8 +9,8 @@
    Pour désactiver le bouton ce soir-là : download: ""
 */
 const JEU_DU_SOIR = {
-  title:    "Pummel Party",   // ← Nom du jeu ce soir
-  download: "https://mega.nz/folder/YydAmLjC#BB46xByI6KnLzaXqFXYfiQ",                // ← Lien de téléchargement
+  title:    "",   // ← Nom du jeu ce soir
+  download: "",                // ← Lien de téléchargement
 };
 /* ════════════════════════════════════════════════════════ */
 
@@ -81,53 +81,55 @@ const GAMES = [
     color:    "#05053a",
     download: "https://mega.nz/folder/ZcBBlSbS#J-ZMhAuaaa1YMSQ0cbqC4A",
   },
-  /*
+
   {
-    title:    "Super Mario Galaxy 2",
-    img:      "images/smg2.jpg",
-    fallback: "🪐",
+    title:    "Mimesis",
+    img:      "images/mimesis.png",
+    fallback: "",
     color:    "#08082a",
-    download: "#",
+    download: "https://mega.nz/folder/pABinYoK#nPfY3dSs-NAjHhajxnUK-g",
   },
+
   {
-    title:    "Zelda: Twilight Princess",
-    img:      "images/tp.jpg",
-    fallback: "🗡️",
+    title:    "Don't Scream Together",
+    img:      "images/dontscreamtogether.png",
+    fallback: "",
     color:    "#0a1a0a",
-    download: "#",
+    download: "https://gofile.io/d/0vyanv",
   },
+
   {
-    title:    "Zelda: Skyward Sword",
-    img:      "images/ss.jpg",
-    fallback: "⚡",
+    title:    "Lockdown Protocol",
+    img:      "images/lockdownprotocol.png",
+    fallback: "",
     color:    "#0a1505",
-    download: "#",
+    download: "https://mega.nz/folder/Na1CnCQI#vMfk4q0vEH6Hf6T4O_tD7w",
   },
   {
-    title:    "Xenoblade Chronicles",
-    img:      "images/xenoblade.jpg",
-    fallback: "⚔️",
+    title:    "RV There Yet?",
+    img:      "images/rvthereyet.png",
+    fallback: "",
     color:    "#0a0018",
-    download: "#",
+    download: "https://mega.nz/folder/kABmkA5K#W9msZRPDDfsY4hw2qzz_Wg",
   },
   {
-    title:    "Metroid Prime 3",
-    img:      "images/mp3.jpg",
-    fallback: "🪖",
+    title:    "Dale and Dawson Stationery",
+    img:      "images/daleanddawsonstationery.jpg",
+    fallback: "",
     color:    "#0d0d05",
-    download: "#",
+    download: "https://mega.nz/folder/9WQHhJjA#6vYiuUYk5dF7Z_rZ08ZjBA",
   },
-  */
 
   /* ── PAGE 2 ─────────────────────────────────────────── */
-  /*
+
   {
-    title:    "Mario Kart CTGP Revolution",
-    img:      "images/ctgp.jpg",
-    fallback: "🌈",
+    title:    "R.E.P.O",
+    img:      "images/repo.png",
+    fallback: "",
     color:    "#1a0030",
-    download: "#",
+    download: "https://mega.nz/folder/aq5xlCbC#ObLKyVSETnPEDIggruY4jA",
   },
+  /*
   {
     title:    "Donkey Kong Country Returns",
     img:      "images/dkcr.jpg",
