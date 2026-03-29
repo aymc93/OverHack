@@ -164,19 +164,18 @@ const GAMES = [
     color:    "#1a0a20",
     download: "https://mega.nz/folder/pqh2QbhS#w5Fr4vEp1OyMLOo-fgBVIQ",
   },
-  /*
   {
-    title:    "Sonic Colors",
-    img:      "images/soniccolors.jpg",
-    fallback: "💨",
+    title:    "Side Effect",
+    img:      "images/sideeffect.png",
+    fallback: "",
     color:    "#001a30",
-    download: "#",
+    download: "https://drive.google.com/file/d/1nvACBdRba3eyFq3XcToeayFSvfy-7Qag/view?usp=drive_link",
   },
- 
+ /*
   {
     title:    "Sonic Unleashed",
     img:      "images/sonicunleashed.jpg",
-    fallback: "🌙",
+    fallback: "",
     color:    "#000a1a",
     download: "#",
   },
